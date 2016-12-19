@@ -1,2 +1,3 @@
-# 4242-Assembly
-An imaginary assembly language called: "4242 Assembly"
+# 4242 Assembly
+## NOTE: THE MAIN HOME FOR THIS PROJECT LIVES ON MY OWN SERVERS. THIS IS THE PUBLIC-FACING VERSION OF THE PROJECT. CONTACT ME IF YOU WISH TO CONTRIBUTE.
+An imaginary assembly language in an imaginary world. How quant.
